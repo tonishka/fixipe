@@ -31,9 +31,6 @@
 		9064B0C52652B9F900F27B29 /* fixipeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9064B0C42652B9F900F27B29 /* fixipeUITests.swift */; };
 		9064B0D92654D4BF00F27B29 /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9064B0D82654D4BF00F27B29 /* QuizViewController.swift */; };
 		9064B0E3265B46E300F27B29 /* ScanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9064B0E2265B46E300F27B29 /* ScanViewController.swift */; };
-		90916BF6269465DF00F06FF7 /* Screenshot 2021-07-03 at 6.23.11 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 90916BEC269465D600F06FF7 /* Screenshot 2021-07-03 at 6.23.11 PM.png */; };
-		90916BF7269465DF00F06FF7 /* Screenshot 2021-07-03 at 5.57.29 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 90916BED269465D700F06FF7 /* Screenshot 2021-07-03 at 5.57.29 PM.png */; };
-		90916BFF269465DF00F06FF7 /* Screenshot 2021-07-03 at 5.57.32 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 90916BF5269465DF00F06FF7 /* Screenshot 2021-07-03 at 5.57.32 PM.png */; };
 		90B7FCD32685948B00EB083D /* RecipesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90B7FCD22685948B00EB083D /* RecipesViewController.swift */; };
 		90B7FCD726859C9100EB083D /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90B7FCD626859C9100EB083D /* HomeViewController.swift */; };
 		90FDE73B2678A1B300D7DA70 /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90FDE73A2678A1B300D7DA70 /* EditViewController.swift */; };
@@ -91,9 +88,6 @@
 		9064B0C62652B9F900F27B29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9064B0D82654D4BF00F27B29 /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
 		9064B0E2265B46E300F27B29 /* ScanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanViewController.swift; sourceTree = "<group>"; };
-		90916BEC269465D600F06FF7 /* Screenshot 2021-07-03 at 6.23.11 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screenshot 2021-07-03 at 6.23.11 PM.png"; path = "Pics for UI/Screenshot 2021-07-03 at 6.23.11 PM.png"; sourceTree = SOURCE_ROOT; };
-		90916BED269465D700F06FF7 /* Screenshot 2021-07-03 at 5.57.29 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screenshot 2021-07-03 at 5.57.29 PM.png"; path = "Pics for UI/Screenshot 2021-07-03 at 5.57.29 PM.png"; sourceTree = SOURCE_ROOT; };
-		90916BF5269465DF00F06FF7 /* Screenshot 2021-07-03 at 5.57.32 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screenshot 2021-07-03 at 5.57.32 PM.png"; path = "Pics for UI/Screenshot 2021-07-03 at 5.57.32 PM.png"; sourceTree = SOURCE_ROOT; };
 		90B7FCD22685948B00EB083D /* RecipesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesViewController.swift; sourceTree = "<group>"; };
 		90B7FCD626859C9100EB083D /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		90FDE73A2678A1B300D7DA70 /* EditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
@@ -202,9 +196,6 @@
 				1B9AF30D26A418430023EF58 /* fixit  */,
 				1B9AF2E526A0457D0023EF58 /* Raleway-VariableFont_wght.ttf */,
 				1B9AF2E3269FE5380023EF58 /* ResetPasswordViewController.swift */,
-				90916BED269465D700F06FF7 /* Screenshot 2021-07-03 at 5.57.29 PM.png */,
-				90916BF5269465DF00F06FF7 /* Screenshot 2021-07-03 at 5.57.32 PM.png */,
-				90916BEC269465D600F06FF7 /* Screenshot 2021-07-03 at 6.23.11 PM.png */,
 				90FDE73A2678A1B300D7DA70 /* EditViewController.swift */,
 				9064B0E2265B46E300F27B29 /* ScanViewController.swift */,
 				9064B0AB2652B9F900F27B29 /* Assets.xcassets */,
@@ -355,16 +346,13 @@
 				1B9AF31D26A418440023EF58 /* 2.png in Resources */,
 				1B9AF2E626A0457D0023EF58 /* Raleway-VariableFont_wght.ttf in Resources */,
 				1B9AF31B26A418440023EF58 /* 7.png in Resources */,
-				90916BFF269465DF00F06FF7 /* Screenshot 2021-07-03 at 5.57.32 PM.png in Resources */,
 				1B9AF31826A418440023EF58 /* 9.png in Resources */,
 				1B9AF31C26A418440023EF58 /* 6.png in Resources */,
 				1B9AF31F26A418440023EF58 /* 1.png in Resources */,
 				1B4DB80C265F455F007453A7 /* GoogleService-Info.plist in Resources */,
-				90916BF7269465DF00F06FF7 /* Screenshot 2021-07-03 at 5.57.29 PM.png in Resources */,
 				9064B0AC2652B9F900F27B29 /* Assets.xcassets in Resources */,
 				9064B0AA2652B9F900F27B29 /* Main.storyboard in Resources */,
 				1B9AF31926A418440023EF58 /* 4.png in Resources */,
-				90916BF6269465DF00F06FF7 /* Screenshot 2021-07-03 at 6.23.11 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
