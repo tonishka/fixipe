@@ -1,5 +1,6 @@
 # fixipe
 Scans and fixes recipes - the Orbital Project of team bananix 
+Note: fixipeBot is live! Go check it out at [here.] (t.me/fixipeBot)
 ## Project Scope
 We hope to make regular recipes customisable based on a user’s specific needs/restrictions.
 
