@@ -14,9 +14,6 @@ The objective of this project is to make regular recipes customisable according 
 - Upon login, they can take a picture of any recipe, and ingredients that they cannot eat will automatically be substituted for alternatives that are easily accessible in any local supermarket. This modified recipe will attempt to preserve the taste of the original food item as much as possible.
 
 - Users can then save these modified recipes to their app for later use so that they do not have to scan the recipe again and can save time accordingly.
-Features & Timeline
-
-A native iOS app that allows users to create personal food profiles, fix recipes and save modified recipes. A Telegram bot that allows users to find healthier alternatives for common food ingredients.
 
 ## Core Features
 
